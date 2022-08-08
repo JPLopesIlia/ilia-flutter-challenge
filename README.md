@@ -40,4 +40,4 @@ No final, um pull request deve ser criado no repositório do Github. Assim que t
 
 Estamos à disposição, para tirar dúvidas.
 
-Happy coding! 🤓
+Happy coding! 🤓🤓
